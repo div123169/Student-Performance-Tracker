@@ -1,0 +1,6 @@
+Model,R2,MAE,MSE,RMSE
+Random Forest,0.7192,8.9182,144.4194,12.0175
+Gradient Boosting,0.7069,9.0157,150.7447,12.2778
+Linear Regression,0.6759,9.6244,166.708,12.9115
+Support Vector Regressor,0.638,9.5741,186.1962,13.6454
+Decision Tree,0.5906,9.7038,210.5715,14.5111

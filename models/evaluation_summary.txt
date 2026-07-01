@@ -1,0 +1,5 @@
+Best Model Name: Random Forest
+R2 Score: 0.7192
+MAE: 8.9182
+MSE: 144.4194
+RMSE: 12.0175
