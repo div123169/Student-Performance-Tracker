@@ -60,7 +60,6 @@ student/
 │   └── prediction_result.png
 │
 ├── src/
-│   ├── __init__.py
 │   ├── preprocessing.py
 │   ├── train.py
 │   ├── evaluate.py
