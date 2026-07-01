@@ -46,6 +46,15 @@ student/
 ├── notebooks/
 │   ├── EDA.ipynb
 │   └── plots/
+│       ├── actual_vs_predicted.png
+│       ├── attendance_distribution.png
+│       ├── boxplots_analysis.png
+│       ├── correlation_heatmap.png
+│       ├── feature_importance.png
+│       ├── histograms_numerical.png
+│       ├── residuals_plot.png
+│       ├── score_distribution.png
+│       └── study_hours_vs_score.png
 │
 ├── screenshots/
 │   ├── dashboard.png
@@ -53,6 +62,7 @@ student/
 │   └── prediction_result.png
 │
 ├── src/
+│   ├── __init__.py
 │   ├── preprocessing.py
 │   ├── train.py
 │   ├── evaluate.py
