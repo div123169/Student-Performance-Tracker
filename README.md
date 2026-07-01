@@ -20,8 +20,6 @@ The project features a modular code structure, automated model training and sele
 ```
 student/
 │
-├── assets/
-│
 ├── dataset/
 │   ├── prepare_dataset.py
 │   ├── student-mat.csv
